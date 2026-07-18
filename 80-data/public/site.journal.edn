@@ -1,0 +1,5 @@
+[["aia-site-1" :site/url "https://www.aia.com" 1 :add]
+ ["aia-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["aia-site-1" :site/http-status 200 1 :add]
+ ["aia-site-1" :site/title "AIA Group Limited - Asia&#39;s Leading Insurance Company" 1 :add]
+ ["aia-site-1" :site/description "AIA provides insurance solutions to both individuals and businesses. Find out more about our services and latest updates." 1 :add]]
